@@ -172,4 +172,4 @@ The recipe in picobrew there is a "stop" step called "connect chiller". for full
 
 ## DEMO
 
-[Video](img/picofollower.m4v)
+[Video](https://youtu.be/4plyQV4wNKg)
